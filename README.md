@@ -1,2 +1,2 @@
 # DFP-algorithm
-This file is a Jupyter notebook written in Python that has implemented DFP algorithm from scratch using mathematical calculations.
+This file is a Jupyter notebook written in Python that has implemented the Davidon-Fletcher-Powell (DFP) algorithm from scratch using mathematical calculations. DFP is an optimization algorithm that is used to find the minimum of a function. The notebook likely includes code for defining the DFP algorithm, functions for calculating the optimization steps, and possibly visualization or analysis of the results. The notebook may also include explanations and derivations of the mathematical concepts used in the implementation of the DFP algorithm.
